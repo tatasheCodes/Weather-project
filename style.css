@@ -1,27 +1,62 @@
-.city-search{
-    max-width: 600px;
+.engine {max-width: 400px;
     margin: 30px auto;
     padding: 20px;
     border: 1px solid black;
     border-radius: 6px;
     text-align: center;
-}
-li {list-style: none;
-    color :#3085ad;
-    font-size: 16px;
-    font-weight: 100;
-    line-height: 19px;}
-
-.weather{
-    max-width: 600px;
-    max-height: 600px;
-    margin: 50px auto;
-    padding: 40px;
+    background-color: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);;
+    }
+.city-search{
+    max-width: 400px;
+    margin: 30px auto;
+    padding: 20px;
     border: 1px solid black;
     border-radius: 6px;
     text-align: center;
+    background-color: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);;
+    
 }
-h1{color :#3085ad;
+li {list-style: none;
+    color :#212272;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 19px;}
+    ul {margin: 0;
+    padding: 0;}
+.table {margin: 60px;
+       
+       }
+   
+.weather{
+    max-width: 400px;
+    max-height: 300px;
+    margin: 50px auto;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);;
+    }
+    
+ h1 {color:#212272;
    font-size: 24 px;
    font-weight: 100;
     }
+    .subscribe {text-align: center;
+               padding: 0;
+               margin: 0;}
+    .clearfix{ max-width: 600px;
+        max-height: 300px;
+        margin: 10px auto;
+        padding: 10px;
+        }
+
+    .wrapper {max-width: 450px;
+        max-height: 1100px;
+        margin: 50px auto;
+        padding: 10px;
+        border: 1px solid black;
+        border-radius: 6px;
+        background: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);}
+    
+        
+                       
