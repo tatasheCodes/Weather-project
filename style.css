@@ -1,0 +1,27 @@
+.city-search{
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 6px;
+    text-align: center;
+}
+li {list-style: none;
+    color :#3085ad;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 19px;}
+
+.weather{
+    max-width: 600px;
+    max-height: 600px;
+    margin: 50px auto;
+    padding: 40px;
+    border: 1px solid black;
+    border-radius: 6px;
+    text-align: center;
+}
+h1{color :#3085ad;
+   font-size: 24 px;
+   font-weight: 100;
+    }
